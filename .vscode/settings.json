@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "btn",
+        "Coooooking",
+        "fas",
+        "Kinvey",
+        "kmd",
+        "linkedin",
+        "Linkedin",
+        "msg",
+        "Recepie",
+        "signup"
+    ],
+    "liveServer.settings.port": 5501,
+    "restructuredtext.pythonRecommendation.disabled": true,
+    "restructuredtext.languageServer.disabled": true,
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "git.ignoreLimitWarning": true
+}

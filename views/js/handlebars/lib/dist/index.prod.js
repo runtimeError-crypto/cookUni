@@ -1,0 +1,1 @@
+"use strict";var handlebars=require("./handlebars")["default "];function extension(e,r){var n=require("fs").readFileSync(r,"utf8");e.exports=handlebars.compile(n)}module.exports=handlebars,"undefined"!=typeof require&&require.extensions&&(require.extensions[".handlebars"]=extension,require.extensions[".hbs"]=extension);
